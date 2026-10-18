@@ -1,0 +1,13 @@
+{
+  "model": "HistGradientBoosting",
+  "trained_on": "FD001, all 100 train engines, 30-cycle windows, 84 features",
+  "test_metrics": {
+    "rmse": 13.437211822666459,
+    "mae": 9.822523069450908,
+    "r2": 0.8954416352183122,
+    "phm_score": 265.9199933220788,
+    "n": 100
+  },
+  "rul_cap": 125,
+  "warning": "Simulated C-MAPSS data. Demo artifact, not a certified product."
+}
